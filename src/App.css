@@ -1,0 +1,84 @@
+.card__inner{
+  background-color: brown;
+  width: 30vh;
+}
+.row{
+  padding-left: 10VH;
+  padding-right: 10vh;
+  margin-top: 10vh;
+}
+.text{
+  text-align: center;
+  margin-top: 10vh;
+}
+.card__name{
+  padding-top: 5vh;
+}
+.card1{
+  background-color: rgb(142, 142, 198);
+  color: aliceblue;
+  width: 50vh;
+  height: 20vh; 
+  text-align: center;
+  justify-content: center;
+}
+.card1:hover{
+  background-position: right bottom;
+  background-color: rgb(83, 83, 190);
+}
+.card2{
+  background-color: rgb(177, 207, 132);
+  color: aliceblue;
+  text-align: center;
+  width: 50vh;
+  height: 20vh; 
+  }
+  .card2:hover{
+    background-position: right bottom;
+    background-color: rgb(131, 187, 47);
+  }
+.card3{
+  background-color: rgb(224, 224, 111);
+  color: rgb(171, 166, 166);
+  text-align: center;
+  width: 50vh;
+  height: 20vh; 
+}
+.card3:hover{
+  background-position: right bottom;
+  background-color: rgb(226, 226, 18);
+}
+.card4{
+  background-color: rgb(244, 189, 88);
+  color: aliceblue;
+  text-align: center;
+  width: 50vh;
+  height: 20vh; 
+}
+.card4:hover{
+  background-position: right bottom;
+  background-color:rgb(232, 156, 15);
+}
+.card5{
+  background-color: rgb(227, 148, 31);
+  color: aliceblue;
+  text-align: center;
+  width: 50vh;
+  height: 20vh; 
+}
+.card5:hover{
+  background-position: right bottom;
+  background-color: crimson;
+}
+.card6{
+  background-color: red ;
+  color: aliceblue;
+  text-align: center;
+  width: 50vh;
+  height: 20vh; 
+}
+.card6:hover{
+  background-position: right bottom;
+  background-color:brown;
+}
+
